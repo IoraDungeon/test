@@ -1,6 +1,8 @@
 #A quick and dirty usage of pygame's screen and event system to create movement
 #Animation and tile-maps to be added shortly
 
+# +++ Building on the scroll test, I am testing animation for movement on the same file
+
 import os
 import pygame
 import time
